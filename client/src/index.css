@@ -1,0 +1,18 @@
+*{
+  background-color: cyan;
+  font-size: large;
+  text-align: center;
+  padding-top: 50px;
+  
+}
+.content{
+  border: 300px;
+  border-radius: 25px;
+  justify-content: center;
+  padding-bottom: 50px;
+  box-shadow: 5px;
+  cursor: pointer;
+  background-color: #fefefe;
+  
+}
+
