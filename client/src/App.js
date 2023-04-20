@@ -1,10 +1,9 @@
 import "./index.css";
+import Main from "./pages/Main";
 
 function App() {
   return (
-    <div className="App">
-      <div className="content">Gmail Clone</div>
-    </div>
+    <Main />
   );
 }
 
